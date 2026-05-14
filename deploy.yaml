@@ -22,4 +22,4 @@ spec:
         image: priyappi/cicd-ete:8
 
         ports:
-        - containerPort: 3000
+        - containerPort: 8000
