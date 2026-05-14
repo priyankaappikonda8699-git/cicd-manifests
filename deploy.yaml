@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: cicd-app
-        image: priyappi/cicd-ete:1
+        image: priyappi/cicd-ete:8
 
         ports:
         - containerPort: 3000
